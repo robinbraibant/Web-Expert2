@@ -1,0 +1,7 @@
+{
+
+    "require": {
+        "guzzlehttp/guzzle": "^7.4",
+        "tdtrung17693/php-chalk": "^1.0"
+    }
+}
